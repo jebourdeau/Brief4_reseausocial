@@ -1,4 +1,5 @@
--- DROP TABLE IF EXISTS user cascade;
+-- DROP TABLE IF EXISTS '' cascade;
+-- DROP DATABASE ' ' cascade; 
 
 
 CREATE TABLE users (

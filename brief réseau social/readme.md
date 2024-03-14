@@ -22,10 +22,3 @@
 7.création d'un groupe de partage.
         avec une table associative, 
         grade interne dans les groupes (`Super Admin`, `Admin`, ....)
-
-
-
-
-
-
- BRIEF réalisé avec l'aide de mon formateur, ainsi que mon voisin Jérome

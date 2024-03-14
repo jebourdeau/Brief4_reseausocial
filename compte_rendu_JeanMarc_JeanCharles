@@ -1,0 +1,10 @@
+reformulation complete de la demande
+-création de super poste, les users supprimé, les post et le groupe sauvergardé; 
+- pagination a 10 pages, et par date
+- requete de suivi et de notification; 
+- suivi et trace entre commentaire;
+- table de réactio : likes ; dislikes....
+- filtres respecter
+- Analytic : nombre moyen de users par cession,  durée d'utilisation par user.
+- reste des analytic par la suite.
+- schema MCD/MLD;
