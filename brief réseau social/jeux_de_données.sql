@@ -66,7 +66,7 @@ INSERT INTO follow (followed_id, follower_id) VALUES (1, 2);
 
 INSERT INTO GroupePartage (name, description, visibility) VALUES ('Groupe1', 'Chasse & Pêche', 'public');
 INSERT INTO GroupePartage (name, description) VALUES ('Groupe2', 'cuir moustache');
-INSERT INTO GroupePartage (name, description) VALUES ('Group3', 'mode');
+INSERT INTO GroupePartage (name, description) VALUES ('Groupe3', 'mode');
 
 
 INSERT INTO users_groupe (users_id, GroupePartage_id) VALUES (1, 1);

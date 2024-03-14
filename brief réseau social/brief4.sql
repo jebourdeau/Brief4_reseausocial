@@ -1,4 +1,4 @@
--- DROP TABLE IF EXISTS comment cascade;
+-- DROP TABLE IF EXISTS user cascade;
 
 
 CREATE TABLE users (
@@ -8,7 +8,8 @@ CREATE TABLE users (
    genre VARCHAR(10) NOT NULL,
    mail VARCHAR (100) NOT NULL,
    password VARCHAR(30) NOT NULL,
-   birthday VARCHAR(30) NOT NULL
+   birthday VARCHAR(30) NOT NULL,
+   notification BOOL NOT NULL DEFAULT true
    );
 
 
